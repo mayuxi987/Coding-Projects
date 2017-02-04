@@ -1,0 +1,2297 @@
+Output of SCM 4.0
+
+<NOTE: This file is best viewed with 1/2 inch margins on all sides and courier 10 pt font>
+
+Data file: 30404/30404.txt.
+Output file: 30404_output.out.
+
+Data file errors:
+The name '3040435' on line '30' is repeated in this group.
+
+Number of groups reported: 214
+
+Number of subjects: 54
+
+Reported Groups:
+Group:	1	Informant: 3040401   
+3040401    3040420    3040450    
+
+Group:	2	Informant: 3040404   
+3040404    3040418    3040431    3040422    3040409    3040416    3040405    
+
+Group:	3	Informant: 3040405   
+3040405    3040446    3040413    
+
+Group:	4	Informant: 3040406   
+3040406    3040420    3040418    
+
+Group:	5	Informant: 3040407   
+3040407    3040418    
+
+Group:	6	Informant: 3040408   
+3040408    3040406    3040421    3040449    3040415    3040413    3040431    
+
+Group:	7	Informant: 3040409   
+3040409    3040401    3040422    3040404    3040442    3040415    3040413    3040449    
+3040420    3040408    
+
+Group:	8	Informant: 3040410   
+3040410    3040453    3040454    3040438    3040417    
+
+Group:	9	Informant: 3040411   
+3040411    3040442    3040431    
+
+Group:	10	Informant: 3040412   
+3040412    3040438    3040435    3040417    3040419    3040410    3040437    
+
+Group:	11	Informant: 3040414   
+3040414    3040419    3040417    3040420    
+
+Group:	12	Informant: 3040415   
+3040415    3040449    3040401    3040420    
+
+Group:	13	Informant: 3040416   
+3040416    3040431    
+
+Group:	14	Informant: 3040417   
+3040417    3040412    3040439    3040429    3040435    3040410    
+
+Group:	15	Informant: 3040418   
+3040418    3040420    3040451    3040401    3040404    
+
+Group:	16	Informant: 3040419   
+3040419    3040402    3040412    3040450    
+
+Group:	17	Informant: 3040420   
+3040420    3040418    3040401    3040451    
+
+Group:	18	Informant: 3040421   
+3040421    3040434    3040403    
+
+Group:	19	Informant: 3040422   
+3040422    3040401    3040409    3040442    3040449    
+
+Group:	20	Informant: 3040423   
+3040423    3040438    3040440    
+
+Group:	21	Informant: 3040424   
+3040424    3040419    
+
+Group:	22	Informant: 3040426   
+3040426    3040441    3040419    3040424    3040443    
+
+Group:	23	Informant: 3040427   
+3040427    3040428    3040444    3040435    3040447    3040437    
+
+Group:	24	Informant: 3040428   
+3040428    3040444    3040427    3040435    3040447    3040426    3040441    
+
+Group:	25	Informant: 3040429   
+3040429    3040430    3040448    3040412    3040417    3040419    3040437    
+
+Group:	26	Informant: 3040430   
+3040430    3040448    
+
+Group:	27	Informant: 3040431   
+3040431    3040411    3040442    
+
+Group:	28	Informant: 3040433   
+3040433    3040451    3040449    3040420    3040421    
+
+Group:	29	Informant: 3040434   
+3040434    3040421    
+
+Group:	30	Informant: 3040435   
+3040435    3040428    3040437    3040414    
+
+Group:	31	Informant: 3040436   
+3040436    3040443    
+
+Group:	32	Informant: 3040437   
+3040437    3040419    3040450    3040447    3040420    3040414    
+
+Group:	33	Informant: 3040438   
+3040438    3040423    3040440    
+
+Group:	34	Informant: 3040439   
+3040439    3040453    3040454    
+
+Group:	35	Informant: 3040440   
+3040440    3040423    3040453    3040454    3040438    3040439    
+
+Group:	36	Informant: 3040441   
+3040441    3040426    3040425    
+
+Group:	37	Informant: 3040442   
+3040442    3040416    3040402    3040431    3040420    
+
+Group:	38	Informant: 3040444   
+3040444    3040428    3040427    3040447    3040435    
+
+Group:	39	Informant: 3040445   
+3040445    3040412    3040444    
+
+Group:	40	Informant: 3040446   
+3040446    3040413    3040402    
+
+Group:	41	Informant: 3040447   
+3040447    3040437    3040428    3040427    3040444    3040453    3040454    
+
+Group:	42	Informant: 3040448   
+3040448    3040430    
+
+Group:	43	Informant: 3040449   
+3040449    3040451    3040420    3040418    3040403    3040452    
+
+Group:	44	Informant: 3040450   
+3040450    3040437    3040401    3040424    
+
+Group:	45	Informant: 3040451   
+3040451    3040420    
+
+Group:	46	Informant: 3040452   
+3040452    3040408    3040411    
+
+Group:	47	Informant: 3040453   
+3040453    3040454    3040410    
+
+Group:	48	Informant: 3040454   
+3040454    3040453    3040410    3040406    3040421    
+
+Group:	49	Informant: 3040401   
+3040450    3040437    
+
+Group:	50	Informant: 3040402   
+3040402    3040432    3040449    
+
+Group:	51	Informant: 3040403   
+3040418    3040451    3040420    
+
+Group:	52	Informant: 3040404   
+3040420    3040451    3040437    3040449    
+
+Group:	53	Informant: 3040405   
+3040446    3040413    
+
+Group:	54	Informant: 3040406   
+3040420    
+
+Group:	55	Informant: 3040407   
+3040434    3040421    3040418    
+
+Group:	56	Informant: 3040408   
+3040449    3040431    3040413    
+
+Group:	57	Informant: 3040409   
+3040426    3040427    3040428    3040444    
+
+Group:	58	Informant: 3040410   
+3040453    3040454    3040410    3040406    
+
+Group:	59	Informant: 3040411   
+3040420    3040418    3040415    
+
+Group:	60	Informant: 3040412   
+3040429    3040412    3040417    3040438    
+
+Group:	61	Informant: 3040413   
+3040412    3040429    3040417    
+
+Group:	62	Informant: 3040414   
+3040444    3040428    3040427    
+
+Group:	63	Informant: 3040415   
+3040434    3040421    3040407    
+
+Group:	64	Informant: 3040416   
+3040431    3040418    3040421    
+
+Group:	65	Informant: 3040417   
+3040401    3040420    3040451    
+
+Group:	66	Informant: 3040418   
+3040428    3040444    3040435    
+
+Group:	67	Informant: 3040419   
+3040437    3040450    3040424    
+
+Group:	68	Informant: 3040420   
+3040406    3040453    3040454    3040421    
+
+Group:	69	Informant: 3040421   
+3040421    3040434    3040403    
+
+Group:	70	Informant: 3040422   
+3040442    3040409    3040405    
+
+Group:	71	Informant: 3040423   
+3040444    3040428    3040427    
+
+Group:	72	Informant: 3040424   
+3040437    3040419    3040450    
+
+Group:	73	Informant: 3040425   
+3040450    3040443    3040421    
+
+Group:	74	Informant: 3040426   
+3040428    3040427    3040444    
+
+Group:	75	Informant: 3040427   
+3040428    3040444    3040447    
+
+Group:	76	Informant: 3040428   
+3040444    3040427    3040435    3040447    3040428    
+
+Group:	77	Informant: 3040429   
+3040412    3040417    3040430    3040448    
+
+Group:	78	Informant: 3040430   
+3040444    3040428    3040447    
+
+Group:	79	Informant: 3040431   
+3040441    3040426    3040428    
+
+Group:	80	Informant: 3040432   
+3040453    3040454    3040410    
+
+Group:	81	Informant: 3040433   
+3040434    3040421    3040451    
+
+Group:	82	Informant: 3040434   
+3040416    3040404    3040431    3040442    
+
+Group:	83	Informant: 3040435   
+3040441    3040425    3040412    3040417    
+
+Group:	84	Informant: 3040436   
+3040426    3040425    3040441    
+
+Group:	85	Informant: 3040437   
+3040428    3040427    3040444    
+
+Group:	86	Informant: 3040438   
+3040453    3040454    3040406    3040410    
+
+Group:	87	Informant: 3040439   
+3040453    3040454    3040421    
+
+Group:	88	Informant: 3040440   
+3040454    3040453    3040439    
+
+Group:	89	Informant: 3040441   
+3040428    3040427    3040435    3040444    3040447    
+
+Group:	90	Informant: 3040442   
+3040416    3040431    3040434    
+
+Group:	91	Informant: 3040443   
+3040401    3040415    3040450    3040422    
+
+Group:	92	Informant: 3040444   
+3040428    3040427    3040447    
+
+Group:	93	Informant: 3040445   
+3040420    3040451    3040418    3040415    3040401    
+
+Group:	94	Informant: 3040446   
+3040420    3040418    3040452    
+
+Group:	95	Informant: 3040447   
+3040437    3040420    3040450    
+
+Group:	96	Informant: 3040448   
+3040412    3040430    3040429    
+
+Group:	97	Informant: 3040449   
+3040451    3040418    3040420    
+
+Group:	98	Informant: 3040450   
+3040401    3040437    
+
+Group:	99	Informant: 3040451   
+3040401    3040415    3040409    3040407    
+
+Group:	100	Informant: 3040452   
+3040420    3040418    3040401    3040415    
+
+Group:	101	Informant: 3040453   
+3040447    3040444    3040427    3040428    
+
+Group:	102	Informant: 3040454   
+3040453    3040410    
+
+Group:	103	Informant: 3040401   
+3040420    3040415    
+
+Group:	104	Informant: 3040402   
+3040446    3040411    3040413    
+
+Group:	105	Informant: 3040403   
+3040434    3040421    3040413    3040408    
+
+Group:	106	Informant: 3040404   
+3040434    3040421    3040452    3040403    
+
+Group:	107	Informant: 3040405   
+3040442    3040406    
+
+Group:	108	Informant: 3040406   
+3040421    3040454    
+
+Group:	109	Informant: 3040407   
+3040409    3040404    3040416    
+
+Group:	110	Informant: 3040408   
+3040403    3040434    3040407    
+
+Group:	111	Informant: 3040409   
+3040451    3040420    3040418    
+
+Group:	112	Informant: 3040410   
+3040454    3040417    3040410    3040439    
+
+Group:	113	Informant: 3040411   
+3040430    3040448    3040447    
+
+Group:	114	Informant: 3040412   
+3040410    3040453    3040454    3040438    
+
+Group:	115	Informant: 3040413   
+3040418    3040415    
+
+Group:	116	Informant: 3040414   
+3040429    3040412    3040430    
+
+Group:	117	Informant: 3040415   
+3040429    3040412    3040430    
+
+Group:	118	Informant: 3040416   
+3040404    3040401    3040402    
+
+Group:	119	Informant: 3040417   
+3040421    3040434    3040407    
+
+Group:	120	Informant: 3040418   
+3040447    3040448    3040430    
+
+Group:	121	Informant: 3040420   
+3040403    3040423    3040408    3040440    
+
+Group:	122	Informant: 3040421   
+3040453    3040454    3040439    
+
+Group:	123	Informant: 3040422   
+3040415    3040404    3040449    
+
+Group:	124	Informant: 3040423   
+3040453    3040454    3040439    
+
+Group:	125	Informant: 3040425   
+3040404    3040426    3040428    
+
+Group:	126	Informant: 3040426   
+3040401    3040422    3040409    
+
+Group:	127	Informant: 3040427   
+3040435    3040439    
+
+Group:	128	Informant: 3040428   
+3040441    3040425    3040448    3040419    
+
+Group:	129	Informant: 3040429   
+3040453    3040454    3040410    3040439    
+
+Group:	130	Informant: 3040430   
+3040448    3040429    
+
+Group:	131	Informant: 3040431   
+3040410    3040439    3040453    
+
+Group:	132	Informant: 3040432   
+3040454    3040417    3040410    
+
+Group:	133	Informant: 3040433   
+3040406    3040446    3040450    3040404    
+
+Group:	134	Informant: 3040435   
+3040435    3040428    3040444    3040427    3040437    3040419    
+
+Group:	135	Informant: 3040436   
+3040428    3040444    3040427    3040435    
+
+Group:	136	Informant: 3040437   
+3040420    3040437    3040418    3040450    3040419    
+
+Group:	137	Informant: 3040439   
+3040424    3040437    3040450    
+
+Group:	138	Informant: 3040440   
+3040438    3040437    3040419    
+
+Group:	139	Informant: 3040441   
+3040431    3040442    3040411    
+
+Group:	140	Informant: 3040442   
+3040432    3040402    3040433    
+
+Group:	141	Informant: 3040443   
+3040405    3040442    3040422    
+
+Group:	142	Informant: 3040444   
+3040435    
+
+Group:	143	Informant: 3040445   
+3040444    3040427    3040428    
+
+Group:	144	Informant: 3040446   
+3040438    3040410    3040437    
+
+Group:	145	Informant: 3040447   
+3040427    3040444    3040428    
+
+Group:	146	Informant: 3040448   
+3040428    3040444    3040426    
+
+Group:	147	Informant: 3040449   
+3040454    
+
+Group:	148	Informant: 3040451   
+3040437    3040419    3040450    
+
+Group:	149	Informant: 3040452   
+3040444    3040428    3040427    
+
+Group:	150	Informant: 3040453   
+3040454    3040410    3040453    
+
+Group:	151	Informant: 3040454   
+3040421    3040406    
+
+Group:	152	Informant: 3040401   
+3040404    3040422    
+
+Group:	153	Informant: 3040403   
+3040403    3040452    3040434    
+
+Group:	154	Informant: 3040404   
+3040450    3040401    
+
+Group:	155	Informant: 3040405   
+3040415    3040404    
+
+Group:	156	Informant: 3040406   
+3040408    3040451    
+
+Group:	157	Informant: 3040407   
+3040421    3040409    3040418    
+
+Group:	158	Informant: 3040408   
+3040403    3040452    3040413    
+
+Group:	159	Informant: 3040409   
+3040441    3040425    3040443    
+
+Group:	160	Informant: 3040410   
+3040438    3040423    3040440    
+
+Group:	161	Informant: 3040412   
+3040418    3040420    3040401    3040451    
+
+Group:	162	Informant: 3040417   
+3040410    3040453    3040454    
+
+Group:	163	Informant: 3040418   
+3040409    3040401    3040413    
+
+Group:	164	Informant: 3040421   
+3040449    3040451    3040420    
+
+Group:	165	Informant: 3040422   
+3040402    3040401    
+
+Group:	166	Informant: 3040425   
+3040410    3040417    
+
+Group:	167	Informant: 3040426   
+3040412    3040429    3040417    
+
+Group:	168	Informant: 3040427   
+3040418    3040420    
+
+Group:	169	Informant: 3040428   
+3040453    3040454    3040406    3040421    
+
+Group:	170	Informant: 3040429   
+3040418    3040420    3040401    
+
+Group:	171	Informant: 3040432   
+3040438    3040423    3040440    
+
+Group:	172	Informant: 3040433   
+3040452    3040403    3040418    
+
+Group:	173	Informant: 3040435   
+3040429    3040412    3040417    3040430    
+
+Group:	174	Informant: 3040437   
+3040443    3040425    3040421    
+
+Group:	175	Informant: 3040440   
+3040421    3040406    
+
+Group:	176	Informant: 3040441   
+3040450    3040401    3040422    3040409    
+
+Group:	177	Informant: 3040443   
+3040425    
+
+Group:	178	Informant: 3040444   
+3040418    3040420    
+
+Group:	179	Informant: 3040446   
+3040429    3040417    3040439    
+
+Group:	180	Informant: 3040447   
+3040453    3040454    
+
+Group:	181	Informant: 3040448   
+3040437    3040419    3040424    
+
+Group:	182	Informant: 3040449   
+3040403    3040452    
+
+Group:	183	Informant: 3040453   
+3040451    3040420    3040449    
+
+Group:	184	Informant: 3040454   
+3040423    3040440    3040438    
+
+Group:	185	Informant: 3040401   
+3040418    3040449    3040409    
+
+Group:	186	Informant: 3040403   
+3040418    3040404    3040408    
+
+Group:	187	Informant: 3040405   
+3040421    3040422    
+
+Group:	188	Informant: 3040406   
+3040405    3040418    
+
+Group:	189	Informant: 3040407   
+3040418    3040404    3040416    
+
+Group:	190	Informant: 3040408   
+3040440    3040454    3040453    
+
+Group:	191	Informant: 3040409   
+3040450    3040437    3040401    
+
+Group:	192	Informant: 3040410   
+3040402    3040432    3040449    
+
+Group:	193	Informant: 3040412   
+3040430    3040448    3040447    3040429    
+
+Group:	194	Informant: 3040417   
+3040412    3040429    3040430    
+
+Group:	195	Informant: 3040418   
+3040431    3040434    3040416    
+
+Group:	196	Informant: 3040421   
+3040412    3040410    3040424    
+
+Group:	197	Informant: 3040422   
+3040404    3040442    3040405    
+
+Group:	198	Informant: 3040425   
+3040409    3040435    3040429    
+
+Group:	199	Informant: 3040426   
+3040448    3040430    3040433    
+
+Group:	200	Informant: 3040427   
+3040442    3040405    
+
+Group:	201	Informant: 3040428   
+3040418    3040420    3040452    3040431    
+
+Group:	202	Informant: 3040429   
+3040440    3040438    
+
+Group:	203	Informant: 3040432   
+3040402    3040452    3040449    
+
+Group:	204	Informant: 3040433   
+3040408    3040401    
+
+Group:	205	Informant: 3040435   
+3040426    3040441    3040425    3040414    
+
+Group:	206	Informant: 3040437   
+3040447    3040430    3040448    
+
+Group:	207	Informant: 3040440   
+3040438    3040410    3040432    
+
+Group:	208	Informant: 3040443   
+3040434    3040421    
+
+Group:	209	Informant: 3040444   
+3040452    3040417    
+
+Group:	210	Informant: 3040446   
+3040423    3040438    3040410    
+
+Group:	211	Informant: 3040447   
+3040448    3040430    
+
+Group:	212	Informant: 3040448   
+3040447    3040453    3040454    
+
+Group:	213	Informant: 3040453   
+3040438    3040423    3040440    
+
+Group:	214	Informant: 3040454   
+3040420    3040418    3040406    
+
+<page break here>
+List of 54 subjects:
+
+Name:3040420   	Total nominations: 33
+Name:3040418   	Total nominations: 29
+Name:3040454   	Total nominations: 26
+Name:3040428   	Total nominations: 25
+Name:3040421   	Total nominations: 24
+Name:3040453   	Total nominations: 24
+Name:3040401   	Total nominations: 23
+Name:3040444   	Total nominations: 22
+Name:3040410   	Total nominations: 21
+Name:3040437   	Total nominations: 21
+Name:3040427   	Total nominations: 18
+Name:3040450   	Total nominations: 17
+Name:3040438   	Total nominations: 16
+Name:3040417   	Total nominations: 16
+Name:3040412   	Total nominations: 16
+Name:3040451   	Total nominations: 16
+Name:3040447   	Total nominations: 16
+Name:3040449   	Total nominations: 15
+Name:3040430   	Total nominations: 15
+Name:3040435   	Total nominations: 14
+Name:3040419   	Total nominations: 14
+Name:3040429   	Total nominations: 14
+Name:3040434   	Total nominations: 14
+Name:3040404   	Total nominations: 14
+Name:3040431   	Total nominations: 13
+Name:3040406   	Total nominations: 12
+Name:3040409   	Total nominations: 12
+Name:3040415   	Total nominations: 12
+Name:3040442   	Total nominations: 12
+Name:3040448   	Total nominations: 12
+Name:3040439   	Total nominations: 11
+Name:3040452   	Total nominations: 11
+Name:3040403   	Total nominations: 10
+Name:3040440   	Total nominations: 10
+Name:3040413   	Total nominations: 10
+Name:3040422   	Total nominations: 9
+Name:3040423   	Total nominations: 9
+Name:3040402   	Total nominations: 9
+Name:3040426   	Total nominations: 9
+Name:3040441   	Total nominations: 9
+Name:3040416   	Total nominations: 8
+Name:3040425   	Total nominations: 8
+Name:3040408   	Total nominations: 8
+Name:3040424   	Total nominations: 7
+Name:3040405   	Total nominations: 7
+Name:3040411   	Total nominations: 5
+Name:3040407   	Total nominations: 5
+Name:3040443   	Total nominations: 5
+Name:3040446   	Total nominations: 5
+Name:3040414   	Total nominations: 4
+Name:3040432   	Total nominations: 4
+Name:3040433   	Total nominations: 3
+Name:3040445   	Total nominations: 1
+Name:3040436   	Total nominations: 1
+<page break here>
+Group construction history:
+
+group: 1	added:		3040420
+group: 1	added:		3040418
+group: 1	added:		3040401
+group: 1	added:		3040451
+group: 1	added:		3040449
+group: 1	added:		3040415
+group: 2	added:		3040454
+group: 2	added:		3040453
+group: 2	added:		3040410
+group: 2	added:		3040406
+group: 2	added:		3040439
+group: 3	added:		3040428
+group: 3	added:		3040444
+group: 3	added:		3040427
+group: 3	added:		3040447
+group: 3	added:		3040435
+group: 3	added:		3040426
+group: 4	added:		3040421
+group: 4	added:		3040434
+group: 4	added:		3040403
+group: 4	added:		3040407
+group: 4	removed:		3040403
+group: 5	added:		3040437
+group: 5	added:		3040450
+group: 5	added:		3040419
+group: 5	added:		3040424
+group: 5	added:		3040414
+group: 6	added:		3040438
+group: 6	added:		3040440
+group: 6	added:		3040423
+group: 7	added:		3040417
+group: 7	added:		3040412
+group: 7	added:		3040430
+group: 7	added:		3040429
+group: 7	added:		3040448
+group: 8	added:		3040404
+group: 8	added:		3040409
+group: 8	added:		3040442
+group: 8	added:		3040422
+group: 8	added:		3040416
+group: 8	added:		3040405
+group: 8	removed:		3040416
+group: 9	added:		3040431
+group: 9	added:		3040416
+group: 9	added:		3040411
+group: 10	added:		3040452
+group: 10	added:		3040403
+group: 11	added:		3040413
+group: 11	added:		3040408
+group: 11	added:		3040446
+group: 12	added:		3040402
+group: 12	added:		3040432
+group: 12	added:		3040433
+group: 13	added:		3040441
+group: 13	added:		3040425
+group: 13	added:		3040443
+group: 7	added:		3040445
+group: 10	added:		3040434   	<muliti-member>
+group: 8	added:		3040415   	<muliti-member>
+group: 9	added:		3040442   	<muliti-member>
+group: 13	added:		3040426   	<muliti-member>
+<page break here>
+Number of groups: 13
+
+GROUP	1		MEMBERS 6			NOMINATIONS: 31		CENTRALITY: NUCLEAR
+     	 		name: 3040420   		nominations: 33		            nuclear
+     	 		name: 3040418   		nominations: 29		            nuclear
+     	 		name: 3040401   		nominations: 23		            nuclear
+     	 		name: 3040451   		nominations: 16		            secondary
+     	 		name: 3040449   		nominations: 15		            secondary
+     	 		name: 3040415   		nominations: 12		            secondary
+
+
+GROUP	2		MEMBERS 5			NOMINATIONS: 25		CENTRALITY: NUCLEAR
+     	 		name: 3040454   		nominations: 26		            nuclear
+     	 		name: 3040453   		nominations: 24		            nuclear
+     	 		name: 3040410   		nominations: 21		            nuclear
+     	 		name: 3040406   		nominations: 12		            secondary
+     	 		name: 3040439   		nominations: 11		            secondary
+
+
+GROUP	3		MEMBERS 6			NOMINATIONS: 23.5		CENTRALITY: NUCLEAR
+     	 		name: 3040428   		nominations: 25		            nuclear
+     	 		name: 3040444   		nominations: 22		            nuclear
+     	 		name: 3040427   		nominations: 18		            nuclear
+     	 		name: 3040447   		nominations: 16		            secondary
+     	 		name: 3040435   		nominations: 14		            secondary
+     	 		name: 3040426   		nominations: 9		            secondary
+
+
+GROUP	4		MEMBERS 3			NOMINATIONS: 19		CENTRALITY: SECONDARY
+     	 		name: 3040421   		nominations: 24		            nuclear
+     	 		name: 3040434   		nominations: 14		            nuclear
+     	 		name: 3040407   		nominations: 5		            peripheral
+
+
+GROUP	5		MEMBERS 5			NOMINATIONS: 19		CENTRALITY: SECONDARY
+     	 		name: 3040437   		nominations: 21		            nuclear
+     	 		name: 3040450   		nominations: 17		            nuclear
+     	 		name: 3040419   		nominations: 14		            nuclear
+     	 		name: 3040424   		nominations: 7		            secondary
+     	 		name: 3040414   		nominations: 4		            peripheral
+
+
+GROUP	6		MEMBERS 3			NOMINATIONS: 13		CENTRALITY: SECONDARY
+     	 		name: 3040438   		nominations: 16		            nuclear
+     	 		name: 3040440   		nominations: 10		            nuclear
+     	 		name: 3040423   		nominations: 9		            secondary
+
+
+GROUP	7		MEMBERS 6			NOMINATIONS: 16		CENTRALITY: SECONDARY
+     	 		name: 3040417   		nominations: 16		            nuclear
+     	 		name: 3040412   		nominations: 16		            nuclear
+     	 		name: 3040430   		nominations: 15		            nuclear
+     	 		name: 3040429   		nominations: 14		            nuclear
+     	 		name: 3040448   		nominations: 12		            nuclear
+     	 		name: 3040445   		nominations: 1		            peripheral
+
+
+GROUP	8		MEMBERS 6			NOMINATIONS: 13		CENTRALITY: SECONDARY
+     	 		name: 3040404   		nominations: 14		            nuclear
+     	 		name: 3040409   		nominations: 12		            nuclear
+     	 		name: 3040442   		nominations: 12		            nuclear
+     	 		name: 3040422   		nominations: 9		            secondary
+     	 		name: 3040405   		nominations: 7		            secondary
+     	 		name: 3040415   		nominations: 12		            nuclear
+
+
+GROUP	9		MEMBERS 4			NOMINATIONS: 12.5		CENTRALITY: SECONDARY
+     	 		name: 3040431   		nominations: 13		            nuclear
+     	 		name: 3040416   		nominations: 8		            secondary
+     	 		name: 3040411   		nominations: 5		            secondary
+     	 		name: 3040442   		nominations: 12		            nuclear
+
+
+GROUP	10		MEMBERS 3			NOMINATIONS: 12.5		CENTRALITY: SECONDARY
+     	 		name: 3040452   		nominations: 11		            nuclear
+     	 		name: 3040403   		nominations: 10		            nuclear
+     	 		name: 3040434   		nominations: 14		            nuclear
+
+
+GROUP	11		MEMBERS 3			NOMINATIONS: 9		CENTRALITY: SECONDARY
+     	 		name: 3040413   		nominations: 10		            nuclear
+     	 		name: 3040408   		nominations: 8		            nuclear
+     	 		name: 3040446   		nominations: 5		            secondary
+
+
+GROUP	12		MEMBERS 3			NOMINATIONS: 6.5		CENTRALITY: PERIPHERAL
+     	 		name: 3040402   		nominations: 9		            nuclear
+     	 		name: 3040432   		nominations: 4		            secondary
+     	 		name: 3040433   		nominations: 3		            secondary
+
+
+GROUP	13		MEMBERS 4			NOMINATIONS: 9		CENTRALITY: SECONDARY
+     	 		name: 3040441   		nominations: 9		            nuclear
+     	 		name: 3040425   		nominations: 8		            nuclear
+     	 		name: 3040443   		nominations: 5		            secondary
+     	 		name: 3040426   		nominations: 9		            nuclear
+
+
+Number of isolates = 1
+     	 		name: 3040436   		nominations: 1
+
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 1, 1]
+           ------------------------------------------------------------
+3040420   |  1  2  3  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040420   |  .  .  .  .  .  .  3  2  .  1  .  .  .  .  .  .  .  4  .  .|
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  2  1  4  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  1  2  .  .  3  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040418   |  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .|
+3040454   |  .  .  .  .  .  .  1  2  3  4  .  .  .  .  .  .  .  5  .  .|
+3040454   |  .  .  .  .  .  .  .  1  2  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  1  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  1  2  .  .  .  .  .  .  .  3  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  1  2  3  5  4  6  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  5  1  2  4  3  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  2  1  .  3  .  .  .  .  .  .  .  4  .  .|
+3040428   |  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  2  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  2  .|
+3040421   |  .  .  .  .  .  .  2  1  .  .  3  .  .  .  .  .  .  .  .  .|
+3040421   |  3  .  .  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  2  1  3  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  4  2  3  1  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  1  3  2  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  2  .  .  1  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  2  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  1  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  1  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  2  1  3  4  5  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  1  .  2  3  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .|
+3040444   |  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  3  2  1  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  2  1  3  4  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 1, 2]
+           ------------------------------------------------------------
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040420   |  .  .  .  .  .  .  4  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  5  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  3  .  2  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  3  2  1  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  4  .  .  .  .  .  .  .  .  .  3  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  3  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  1  3  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  2  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  4  .  .  5  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 1, 3]
+           ------------------------------------------
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040420   |  .  .  .  1  .  3  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  3  .  .  .  .  .  .  .  .  .|
+3040418   |  3  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  7  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  1  2  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  3  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  3  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  3  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  1  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 2, 1]
+           ------------------------------------------------------------
+3040410   |  .  .  .  .  .  .  1  .  3  .  4  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  5  .  .  .  .  .  .  .  .  .  .  .  .  .  4  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  1  3  2  .  .  .  .  .  .|
+3040437   |  1  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  2  3  1  5  4  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  1  2  .  3  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .  1  .  .  .  .|
+3040427   |  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  2  1  4  3  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  6  .  3  .  .  .  .  5  .  .  .  .|
+3040417   |  2  .  1  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  2  3|
+3040417   |  .  .  .  .  .  .  3  2  1  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  6  .  .  .  .  .  .  3  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  3  2  1  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  2  1  3  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .  .|
+3040451   |  2  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   |  .  .  1  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  4|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  7  6  .  .  .  3  5  4  1  .  .  .  .  .|
+3040447   |  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  3  2  1  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  2  1  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  3  4  .  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  3  2  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 2, 2]
+           ------------------------------------------------------------
+3040410   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  1  3  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  1  3  2  .  6  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  2  4  5  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  2  .  3  .  .  .  .  .  .  .|
+3040427   |  6  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  2  .|
+3040450   |  2  1  .  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  1  3  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  1  2  .  4  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  1  3  2  .  .  .  .  .  .  .  .|
+3040412   |  7  .  5  .  .  2  .  .  4  1  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  4  .  .  3  2  .  1  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  1  4  2  .  .  .  .  .  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .|
+3040451   |  1  3  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  1  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  2  .  1  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  1  .  2  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 2, 3]
+           ------------------------------------------
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  1  2  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  6  5  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  2  1  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 3, 1]
+           ------------------------------------------------------------
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  2  1  .  3  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  1  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  2  3  4  .  1  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040419   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040419   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  2  1  3  .  4  .  .  .  .  .  .  .  .  .|
+3040429   |  2  1  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  1  .  .  2  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040404   |  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .  2  .  .  .|
+3040431   |  .  .  .  .  .  .  .  3  1  .  2  .  .  .  .  .  .  .  .  .|
+3040406   |  2  3  .  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040406   |  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  1  .  .|
+3040406   |  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  9  .  2  .  8  6  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  3  4  2  .  .  1  .  .  .|
+3040409   |  2  3  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  4  .  3  .  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  3|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040442   |  5  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 3, 2]
+           ------------------------------------------------------------
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  2  1  .  .  .  .  .  .  .|
+3040435   |  3  .  .  .  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  4  3  .  .  .  .  .  .  .  .  .  .|
+3040435   |  5  .  6  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  3  2  4  1  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040419   |  .  4  1  .  .  .  .  .  .  3  .  .  .  .  .  .  .  .  .  .|
+3040419   |  1  2  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  7  .  6  .  .  .  .  .  5  4  2  1  3  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  2  1  3  .  4  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  4  .  .  3|
+3040404   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  5  .  4  7  3|
+3040404   |  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  1|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4  1  5  3  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  2  3  1  .  .  .  .  .  .  .  .|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  4|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  2  .  1  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 3, 3]
+           ------------------------------------------
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  1  2  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  2  3  .  .|
+3040419   |  .  .  .  .  .  .  .  2  .  .  .  .  .  .|
+3040419   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  1  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  6  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  .  3  4  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  1  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  7 10  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  1  2  3  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040442   |  2  .  .  .  .  .  .  3  .  .  .  .  .  .|
+3040442   |  1  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040442   |  .  .  .  .  .  .  .  2  1  3  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 4, 1]
+           ------------------------------------------------------------
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  1  2  .  .  .  3  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  3  2  .  .  .  .  .  .  1  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  3  2  .  .  1  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  2  1  .  .  .  .  .  .  .  .  .  3  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  1  2  3  .  .  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  2  1  3  .  .  .  .  .  .|
+3040403   |  3  1  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .|
+3040403   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  4  3  .  .  6  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  1  2  .  .  3  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  1  .  .|
+3040440   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  1  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  2  .  5  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  3  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  2  1  3  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  2  1  .  .  3  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  1  3  2  .  .  .  .  .  .|
+3040426   |  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  1  4  2  5  3  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 4, 2]
+           ------------------------------------------------------------
+3040448   |  .  .  .  .  .  .  .  .  .  1  2  3  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  1  .  2  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  2  3  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .|
+3040440   |  .  .  .  .  .  5  1  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  2  .  3  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  3  1  .  2  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  4  1  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .  3  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  2  .  3  .|
+3040423   |  .  .  .  .  .  2  3  1  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  3  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  2  .  .|
+3040426   |  .  .  .  .  .  .  .  .  3  1  .  2  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  2  .  1  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  1|
+3040441   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  4  .  3  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 4, 3]
+           ------------------------------------------
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  3  1  .  .  2  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  3  4  .  .  .  .  .  .  .  .|
+3040403   |  .  .  2  1  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  3  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  3  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  1  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  .  1  2  .  .  .  .  .|
+3040402   |  .  2  .  .  3  .  1  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  2  .  5  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  3  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  1  3  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 5, 1]
+           ------------------------------------------------------------
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040416   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .|
+3040416   |  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .  2  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .|
+3040408   |  .  .  .  .  4  5  .  .  .  2  .  .  .  .  .  .  .  3  .  .|
+3040408   |  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  3|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  .  .  2  3  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  1  2  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .  .|
+3040407   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1|
+3040407   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .|
+3040407   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  1  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  1  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  2  1  3  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  2  1  3  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 5, 2]
+           ------------------------------------------------------------
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2|
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1|
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040425   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  1  .  .  .  .|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  7|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  2  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  1  3  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  3|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  1  .  2  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .  .  .  .  .|
+3040443   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  3  1  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  3  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  2  .  .  1  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  2  .  1  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  2  .  1  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  2  3  1  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 5, 3]
+           ------------------------------------------
+3040416   |  1  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040416   |  .  .  .  .  .  .  .  3  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  2  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  6  1  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  3  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  2  1  3  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  3  .  2  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  2  .  1  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  3  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  3  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  1  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  2  .  1  3  .  .  .  .  .  .|
+3040446   |  .  .  3  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 6, 1]
+           ------------------------------------------------------------
+3040432   |  .  .  .  .  .  .  1  .  3  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  4  .  .  2  3  .  .  .  .  .  .  .  .  .  .  .  .  5  .  .|
+3040433   |  .  .  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040433   |  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  .  .  .  .  .|
+3040445   |  1  3  5  2  .  4  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  3  1  2  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  1  2  3  .  4  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 6, 2]
+           ------------------------------------------------------------
+3040432   |  .  .  .  .  .  .  .  .  2  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  1  3  2  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  3  .  .  .  .  .  .  .  .  .  .  .  .  4  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  2  .  .  .  1  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Recall matrix: 6 pages by 3 pages.
+This is page [ 6, 3]
+           ------------------------------------------
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  2  .  .  .  .  1  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  1  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  2  .  .  .  .  .  .  .|
+3040433   |  .  .  1  2  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  1  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  2  1|
+3040436   |  .  .  .  .  .  .  .  .  .  .  3  2  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Coocurrence matrix: 2 pages by 3 pages.
+This is page [ 1, 1]
+           ------------------------------------------------------------
+3040420   | 33 18 10 14  7  6  .  .  .  2  .  .  .  .  1  .  .  1  .  .|
+3040418   | 18 29  6  8  2  4  .  .  .  2  .  .  .  .  .  .  .  3  1  1|
+3040401   | 10  6 23  5  3  6  .  .  .  .  .  .  .  .  .  .  .  .  .  1|
+3040451   | 14  8  5 16  5  1  .  .  .  .  .  .  .  .  .  .  .  2  1  .|
+3040449   |  7  2  3  5 15  4  .  .  .  1  .  .  .  .  .  .  .  2  .  .|
+3040415   |  6  4  6  1  4 12  .  .  .  1  .  .  .  .  .  .  .  1  .  1|
+3040454   |  .  .  .  .  .  . 26 22 12  5  7  1  1  1  2  .  .  5  .  .|
+3040453   |  .  .  .  .  .  . 22 24 12  5  7  1  1  1  2  .  .  4  .  .|
+3040410   |  .  .  .  .  .  . 12 12 21  3  4  .  .  .  .  2  .  1  .  .|
+3040406   |  2  2  .  .  1  1  5  5  3 12  .  .  .  .  .  .  .  6  .  .|
+3040439   |  .  .  .  .  .  .  7  7  4  . 11  .  .  .  .  2  .  .  .  .|
+3040428   |  .  .  .  .  .  .  1  1  .  .  . 25 21 18 10  9  5  .  .  .|
+3040444   |  .  .  .  .  .  .  1  1  .  .  . 21 22 17  9  8  3  .  .  .|
+3040427   |  .  .  .  .  .  .  1  1  .  .  . 18 17 18  8  7  2  .  .  .|
+3040447   |  1  .  .  .  .  .  2  2  .  .  . 10  9  8 16  5  1  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  2  .  2  9  8  7  5 14  1  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  5  3  2  1  1  9  .  .  .|
+3040421   |  1  3  .  2  2  1  5  4  1  6  .  .  .  .  .  .  . 24 10  2|
+3040434   |  .  1  .  1  .  .  .  .  .  .  .  .  .  .  .  .  . 10 14  3|
+3040407   |  .  1  1  .  .  1  .  .  .  .  .  .  .  .  .  .  .  2  3  5|
+3040437   |  4  1  3  1  1  .  1  1  2  .  .  4  3  3  3  4  .  .  .  .|
+3040450   |  4  1  6  .  .  1  .  .  .  1  .  .  .  .  1  .  .  1  .  .|
+3040419   |  3  1  .  .  .  .  .  .  1  .  .  1  1  1  1  2  1  .  .  .|
+3040424   |  .  .  1  .  .  .  .  .  1  .  .  .  .  .  .  .  1  .  .  .|
+3040414   |  2  .  .  .  .  .  .  .  .  .  .  1  .  .  1  1  1  .  .  .|
+3040438   |  .  .  .  .  .  .  3  3  6  .  1  .  .  .  .  1  .  .  .  .|
+3040440   |  .  .  .  .  .  .  2  2  .  .  1  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  1  1  1  .  1  .  .  .  .  .  .  .  .  .|
+3040417   |  1  .  .  .  .  .  3  1  6  .  3  .  .  .  .  2  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  3  .  1  .  1  .  .  2  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  1  .  2  .  .  .  1  2  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .  .  .|
+3040404   |  2  4  3  1  2  3  .  .  .  1  .  1  .  .  .  .  1  .  .  .|
+3040409   |  1  3  6  .  3  2  .  .  .  .  .  .  .  .  .  1  .  1  .  1|
+3040442   |  2  .  2  .  2  1  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040422   |  1  1  5  .  2  2  .  .  .  .  .  .  .  .  .  .  .  1  .  .|
+3040405   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  2  3  .  .  2  1  .  .  .  1  .  .  .  .  .  .  .  2  2  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Coocurrence matrix: 2 pages by 3 pages.
+This is page [ 1, 2]
+           ------------------------------------------------------------
+3040420   |  4  4  3  .  2  .  .  .  1  .  .  .  .  .  2  1  2  1  .  2|
+3040418   |  1  1  1  .  .  .  .  .  .  .  .  .  .  .  4  3  .  1  2  3|
+3040401   |  3  6  .  1  .  .  .  .  .  .  .  .  .  .  3  6  2  5  .  .|
+3040451   |  1  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040449   |  1  .  .  .  .  .  .  .  .  .  .  .  .  .  2  3  2  2  .  2|
+3040415   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  3  2  1  2  .  1|
+3040454   |  1  .  .  .  .  3  2  1  3  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  1  .  .  .  .  3  2  1  1  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  2  .  1  1  .  6  .  1  6  3  .  1  .  .  .  .  .  .  .  .|
+3040406   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  1  .  1  .  .  1|
+3040439   |  .  .  .  .  .  1  1  1  3  1  .  2  .  .  .  .  .  .  .  .|
+3040428   |  4  .  1  .  1  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040444   |  3  .  1  .  .  .  .  .  .  1  .  .  .  1  .  .  .  .  .  .|
+3040427   |  3  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  3  1  1  .  1  .  .  .  .  .  4  1  4  .  .  .  .  .  .  .|
+3040435   |  4  .  2  .  1  1  .  .  2  2  .  2  .  .  .  1  .  .  .  .|
+3040426   |  .  .  1  1  1  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040421   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  1  .  2|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  .|
+3040437   | 21 10  9  4  2  3  .  .  2  2  1  1  1  .  .  .  .  .  .  .|
+3040450   | 10 17  5  3  1  .  .  .  .  1  .  .  .  .  1  1  .  2  .  .|
+3040419   |  9  5 14  3  2  2  .  .  3  3  1  1  2  .  .  .  .  .  .  .|
+3040424   |  4  3  3  7  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040414   |  2  1  2  .  4  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  3  .  2  .  . 16  8  8  3  2  .  1  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  8 10  8  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  8  8  9  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  2  .  3  .  1  3  .  . 16  9  3  7  2  .  .  .  .  .  .  .|
+3040412   |  2  1  3  1  .  2  .  .  9 16  7 10  2  1  .  .  .  .  .  .|
+3040430   |  1  .  1  .  .  .  .  .  3  7 15  7 10  .  .  .  .  .  .  .|
+3040429   |  1  .  1  .  .  1  .  .  7 10  7 14  3  .  .  1  .  .  .  .|
+3040448   |  1  .  2  .  .  .  .  .  2  2 10  3 12  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  1  .  .  .  1  .  .  .  .  .  .|
+3040404   |  .  1  .  .  .  .  .  .  .  .  .  .  .  . 14  3  3  3  2  2|
+3040409   |  .  1  .  .  .  .  .  .  .  .  .  1  .  .  3 12  3  5  2  1|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 12  3  4  5|
+3040422   |  .  2  .  .  .  .  .  .  .  .  .  .  .  .  3  5  3  9  2  1|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  2  4  2  7  1|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  1  5  1  1 13|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Coocurrence matrix: 2 pages by 3 pages.
+This is page [ 1, 3]
+           ------------------------------------------
+3040420   |  1  .  3  1  1  1  .  1  .  1  .  .  .  .|
+3040418   |  2  .  4  2  .  1  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  2  2  .  2  .  .  .  .  .  .|
+3040451   |  .  .  1  1  .  1  .  .  .  1  .  .  .  .|
+3040449   |  .  .  2  1  3  2  .  3  2  1  .  .  .  .|
+3040415   |  .  .  .  .  2  2  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040406   |  .  .  .  .  1  1  1  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  2  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  1  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  6  3  1  .|
+3040421   |  .  .  1  3  2  2  .  .  .  1  .  1  2  .|
+3040434   |  2  .  2  5  1  1  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  .  .  .  .  .  1  1  .  .  .  .  1  .|
+3040419   |  .  .  .  .  .  .  .  1  .  .  2  1  1  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  1  .  1  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  1  1  .  .|
+3040438   |  .  .  .  .  .  .  .  .  1  .  .  .  .  .|
+3040440   |  .  .  .  1  .  1  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  1  .  1  .  .  .  .  .  .  .  .|
+3040417   |  .  .  1  .  .  .  .  .  .  .  1  1  .  .|
+3040412   |  .  .  .  .  .  .  .  1  .  .  1  1  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  1  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  1  1  1  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  4  .  .  .  1  2  1  1  .  .  .  .  .  .|
+3040409   |  2  .  .  .  2  1  .  .  .  .  .  .  .  .|
+3040442   |  2  3  .  .  1  1  .  1  .  .  .  .  .  .|
+3040422   |  1  .  .  .  1  1  .  .  .  .  .  .  .  .|
+3040405   |  1  .  .  .  1  .  1  .  .  .  .  .  .  .|
+3040431   |  6  3  1  .  2  1  .  1  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Coocurrence matrix: 2 pages by 3 pages.
+This is page [ 2, 1]
+           ------------------------------------------------------------
+3040416   |  1  2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  3  4  .  1  2  .  .  .  .  .  .  .  .  .  .  .  .  1  2  .|
+3040403   |  1  2  .  1  1  .  .  .  .  .  .  .  .  .  .  .  .  3  5  1|
+3040413   |  1  .  2  .  3  2  .  .  .  1  .  .  .  .  .  .  .  2  1  .|
+3040408   |  1  1  2  1  2  2  .  .  .  1  .  .  .  .  .  .  .  2  1  .|
+3040446   |  .  .  .  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .|
+3040402   |  1  .  2  .  3  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  2  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  1  .  .  1  1  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  2  1  1  1  1  6  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  1  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  2  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Coocurrence matrix: 2 pages by 3 pages.
+This is page [ 2, 2]
+           ------------------------------------------------------------
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4  2  2  1  1  6|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3  .  .  3|
+3040452   |  .  .  .  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  1|
+3040403   |  .  .  .  .  .  .  1  1  .  .  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1  2  1  1  1  2|
+3040408   |  .  .  .  .  .  .  1  1  .  .  .  .  .  .  2  1  1  1  .  1|
+3040446   |  .  1  .  .  .  .  .  .  .  .  .  .  .  .  1  .  .  .  1  .|
+3040402   |  .  1  1  .  .  .  .  .  .  1  .  .  .  .  1  .  1  .  .  1|
+3040432   |  .  .  .  .  .  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  1  .  1  .  .  .  .  .  .  .|
+3040441   |  .  .  2  1  1  .  .  .  1  1  .  .  1  .  .  .  .  .  .  .|
+3040425   |  .  .  1  .  1  .  .  .  1  1  .  .  1  .  .  .  .  .  .  .|
+3040443   |  .  1  1  1  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Coocurrence matrix: 2 pages by 3 pages.
+This is page [ 2, 3]
+           ------------------------------------------
+3040416   |  8  .  .  .  .  .  .  1  .  .  .  .  .  .|
+3040411   |  .  5  1  .  1  1  1  .  .  .  .  .  .  .|
+3040452   |  .  1 11  6  1  1  .  1  .  .  .  .  .  .|
+3040403   |  .  .  6 10  1  1  .  .  .  .  .  .  .  .|
+3040413   |  .  1  1  1 10  3  4  1  .  .  .  .  .  .|
+3040408   |  .  1  1  1  3  8  .  .  .  .  .  .  .  .|
+3040446   |  .  1  .  .  4  .  5  1  .  .  .  .  .  .|
+3040402   |  1  .  1  .  1  .  1  9  3  1  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  3  4  1  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  1  1  3  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  9  6  2  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  6  8  2  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  2  2  5  1|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  1  1|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Correlation matrix: 2 pages by 3 pages.
+This is page [ 1, 1]
+           ------------------------------------------------------------
+3040420   | 99 83 61 88 55 58  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   | 83 99 48 72  . 50  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   | 61 48 99 52 41 67  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   | 88 72 52 99 57 42  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   | 55  . 41 57 99 56  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   | 58 50 67 42 56 99  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  . 99 99 80 54 75  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  . 99 99 80 54 75  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  . 80 80 99  . 66  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  . 54 54  . 99  .  .  .  .  .  .  . 55  .  .|
+3040439   |  .  .  .  .  .  . 75 75 66  . 99  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  . 99 99 98 81 81 51  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  . 99 99 99 80 80 46  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  . 98 99 99 81 80 44  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  . 81 80 81 99 69  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  . 81 80 80 69 99  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  . 51 46 44  .  . 99  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  . 55  .  .  .  .  .  .  . 99 76 45|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 76 99 64|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 45 64 99|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  . 45  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040419   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  .  . 47  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  . 46  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   |  .  .  .  .  . 44  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  . 57  .  . 43  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  . 59  .  . 45  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Correlation matrix: 2 pages by 3 pages.
+This is page [ 1, 2]
+           ------------------------------------------------------------
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  . 45  .  .  .  .  .  .  .  .  .  .  .  .  . 57  . 59  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 44 43  . 45  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  . 47  .  . 46  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   | 99 74 79 62 51  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   | 74 99 58 59  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040419   | 79 58 99 62 58  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   | 62 59 62 99  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   | 51  . 58  . 99  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  . 99 83 86  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  . 83 99 98  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  . 86 98 99  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  . 99 82 42 74  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  . 82 99 65 91  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  . 42 65 99 73 91  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  . 74 91 73 99 49  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  . 91 49 99  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  . 99  .  .  .  .  .  .|
+3040404   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 99 49 43 52 43  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 49 99 45 80 43  .|
+3040442   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 43 45 99 51 66 61|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 52 80 51 99 46  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 43 43 66 46 99  .|
+3040431   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 61  .  . 99|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Correlation matrix: 2 pages by 3 pages.
+This is page [ 1, 3]
+           ------------------------------------------
+3040420   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040418   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040401   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040451   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040449   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040415   |  .  .  .  .  . 42  .  .  .  .  .  .  .  .|
+3040454   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040453   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040410   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040406   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040439   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040428   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040444   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040427   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040447   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040435   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040426   |  .  .  .  .  .  .  .  .  .  . 84 59  .  .|
+3040421   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040434   |  .  .  . 63  .  .  .  .  .  .  .  .  .  .|
+3040407   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040437   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040450   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040419   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040424   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040414   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040438   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040440   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040423   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040417   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040412   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040430   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040429   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040448   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040445   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040404   | 56  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040409   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040442   | 46 59  .  .  .  .  .  .  .  .  .  .  .  .|
+3040422   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040405   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040431   | 79 59  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
+<page break here>
+Correlation matrix: 2 pages by 3 pages.
+This is page [ 2, 1]
+           ------------------------------------------------------------
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 63  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  . 42  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 84  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 59  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             2  1  0  5  4  1  5  5  1  0  3  2  4  2  4  3  2  2  3  0
+             0  8  1  1  9  5  4  3  0  6  9  8  4  7  7  5  6  1  4  7
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Correlation matrix: 2 pages by 3 pages.
+This is page [ 2, 2]
+           ------------------------------------------------------------
+3040416   |  .  .  .  .  .  .  .  .  .  .  .  .  .  . 56  . 46  .  . 79|
+3040411   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 59  .  . 59|
+3040452   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040408   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040425   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040443   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .|
+           ------------------------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             3  5  1  2  1  3  4  2  1  1  3  2  4  4  0  0  4  2  0  3
+             7  0  9  4  4  8  0  3  7  2  0  9  8  5  4  9  2  2  5  1
+                                                                       
+                                                                       
+                                                                       
+<page break here>
+Correlation matrix: 2 pages by 3 pages.
+This is page [ 2, 3]
+           ------------------------------------------
+3040416   | 99  .  .  .  .  .  .  .  .  .  .  .  .  .|
+3040411   |  . 99  .  .  .  .  .  .  .  .  .  .  .  .|
+3040452   |  .  . 99 79  .  .  .  .  .  .  .  .  .  .|
+3040403   |  .  . 79 99  .  .  .  .  .  .  .  .  .  .|
+3040413   |  .  .  .  . 99 55 70  .  .  .  .  .  .  .|
+3040408   |  .  .  .  . 55 99  .  .  .  .  .  .  .  .|
+3040446   |  .  .  .  . 70  . 99  .  .  .  .  .  .  .|
+3040402   |  .  .  .  .  .  .  . 99 73  .  .  .  .  .|
+3040432   |  .  .  .  .  .  .  . 73 99 45  .  .  .  .|
+3040433   |  .  .  .  .  .  .  .  . 45 99  .  .  .  .|
+3040441   |  .  .  .  .  .  .  .  .  .  . 99 89 51  .|
+3040425   |  .  .  .  .  .  .  .  .  .  . 89 99 57  .|
+3040443   |  .  .  .  .  .  .  .  .  .  . 51 57 99 63|
+3040436   |  .  .  .  .  .  .  .  .  .  .  .  . 63 99|
+           ------------------------------------------
+             3  3  3  3  3  3  3  3  3  3  3  3  3  3
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             0  0  0  0  0  0  0  0  0  0  0  0  0  0
+             4  4  4  4  4  4  4  4  4  4  4  4  4  4
+             1  1  5  0  1  0  4  0  3  3  4  2  4  3
+             6  1  2  3  3  8  6  2  2  3  1  5  3  6
+                                                     
+                                                     
+                                                     
