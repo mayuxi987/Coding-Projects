@@ -1,0 +1,6 @@
+This is the R script that helps to simplify the data-processing procedures in a research project related to peer affiliation. 
+The main functions of this script are:
+
+1. re-organizing the data format
+2. deleting the repeated values in each row 
+3. using the for-loop to generate the text files at once 
