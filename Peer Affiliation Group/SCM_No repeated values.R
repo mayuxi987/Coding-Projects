@@ -138,11 +138,11 @@ dataset.combine<-rbind.data.frame(dataset.0, dataset.1, dataset.2, dataset.3, da
 dataset.combine[,1]<- paste("#", sep = "", dataset.combine[,1])
 
 
-#delete the repeated values ºËĞÄË¼Ïë½«data.frame×ª»¯ÎªmatrixºóÀûÓÃuniqueº¯ÊıÉú³ÉĞÂµÄmatrix¡£
+#delete the repeated values æ ¸å¿ƒæ€æƒ³å°†data.frameè½¬åŒ–ä¸ºmatrixååˆ©ç”¨uniqueå‡½æ•°ç”Ÿæˆæ–°çš„matrixã€‚
 dataset.matrix<- as.matrix.data.frame(dataset.combine)
 initial<- unique(dataset.matrix[1,2:17])
 length(initial) <- 16
-x <- seq(from = 2, to = 12430, by = 1)
+x <- seq(from = 2, to = nrow(dataset.matrix), by = 1)
 for(i in x){
   trial<-unique(dataset.matrix[i,2:17])
   length(trial) <-16
