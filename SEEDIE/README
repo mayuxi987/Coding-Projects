@@ -1,3 +1,11 @@
+## Part1_文件说明
+RawData为汇总了所有数据并附上了英文variable name后的原始数据。
+Coding_book 为variable name和问题的对照，里面包含了关于scale的说明。
+BasicAnalysis_Xiaolin.R 为基于小琳的代码上修改的简化代码（仅供参考），主要功能是进行likert 5点量表的分析。
+**Combined_Likert** 这个excel表格汇集了基本上所有指标和其对应的percentage、mean & standard deviation（详情见Part2).
+
+
+## Part2_关于Combined_Likert.xlsx的详细说明
 Likert量表的analysis涵盖了绝大多数的量化问题，在进一步时有几个注意点：
 - 消化度和吸收度 （以absorption OR fresh rate 命名的变量）其虽然是5点量表，但其scale的值有点区别。需要额外分析。
 - 在营前问卷，还有2道ranking question 和 1道Multiple Choice question未被考虑在内，需要追溯到原始数据才能分析。
