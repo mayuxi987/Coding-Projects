@@ -1,4 +1,4 @@
-*Likert量表的analysis涵盖了绝大多数的量化问题，在进一步时有几个注意点*：
+**Likert量表的analysis涵盖了绝大多数的量化问题，在进一步时有几个注意点**：
 - 消化度和吸收度 （以absorption OR fresh rate 命名的变量）其虽然是5点量表，但其scale的值有点区别。需要额外分析。
 - 在营前问卷，还有2道ranking question 和 1道Multiple Choice question未被考虑在内，需要追溯到原始数据才能分析。
 - 在Design Thinking问卷中，还包括了YES/NO的问题（1表示是，2表示否），仍然采用Likert Analysis的代码分析（得到百分比和Mean, STD），在分析时候需要注意。
